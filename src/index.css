@@ -1,13 +1,128 @@
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  margin-top :2rem
+  font-family 'Lato', sans-serif;
+  background-color:cornsilk;
+  -webkit-font-smoothing : antialiased;
+  font: size 1.1rem;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.card{
+  position: relative;
+  background-color: orange;
+  max-width: 20rem;
+  margin: 7rem auto 2rem;
+  border: solid 5px ;
+  border-radius: .4rem;
+  padding: 5.5rem 2.5rem 1rem;
+  font-family: 'Lato', sans-serif;
+  -webkit-font-smoothing : antialiased;
+
+}
+.searchbox{
+  max-width: 20rem;
+  margin: 1rem auto;
+}
+.searchbox .input{
+  height: 3rem;
+  width: 100%;
+  box-shadow: none;
+  border: none;
+  padding: 0 1rem;
+  color: darkred;
+  border-radius: .2rem;  
+}
+.searchbox .searchbox__input{
+  width: 80%;
+  padding: 1rem 2rem;
+  border: none;
+  margin: 1rem 0 0 0;
+  background:rgba(255, 255, 255, 0.8);
+  background-color: cornflowerblue;
+  font-weight: 700;
+  border-radius: .4rem;
+}
+
+.searchbox .searchbox__button .hover{
+  background-color: cornflowerblue;
+}
+
+.searchbox .searchbox__button{
+  width: 100%;
+  padding: 1rem 2rem;
+  border: none;
+  margin: 1rem 0 0 0;
+  background-color: cornflowerblue;
+  color:b;
+  font-weight: 700;
+  border-radius: .4rem;
+}
+    
+
+.card .card__avatar{
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 10rem;
+  height: auto;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 5px;
+  max-width: 100%;
+  
+  transition: 0.2s;
+
+  }
+.card .card__username{
+  font-size: 2rem;
+    font-weight: 1200;
+    text-align: center;
+    margin: 1rem auto;
+}
+
+.card .card__link{
+  color: white;
+  border-bottom: solid 2px white;
+  text-decoration: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+   
+}
+
+.card .card__notfound{
+  
+    text-align: center;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.card .card__link .hover{
+    opacity: 0.8;
+ 
+}
+
+.card .dl{
+  margin: 0;
+  padding : 0;
+  
+}
+
+dt, dd{
+  text-align : center;
+}
+dt{
+  font-weight: 900;
+  margin-bottom: .2rem;
+}
+dd{
+  margin: 0 0 1rem 0;
 }
