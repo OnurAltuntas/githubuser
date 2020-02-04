@@ -2,7 +2,7 @@
 body {
   margin-top :2rem
   font-family 'Lato', sans-serif;
-  background-color:cornsilk;
+  background-color:steelblue;
   -webkit-font-smoothing : antialiased;
   font: size 1.1rem;
 }
@@ -43,13 +43,13 @@ code {
   border: none;
   margin: 1rem 0 0 0;
   background:rgba(255, 255, 255, 0.8);
-  background-color: cornflowerblue;
+  background-color: rgba(255, 255, 255, 0.8);
   font-weight: 700;
   border-radius: .4rem;
 }
 
 .searchbox .searchbox__button .hover{
-  background-color: cornflowerblue;
+  background-color: orange;
 }
 
 .searchbox .searchbox__button{
@@ -57,7 +57,7 @@ code {
   padding: 1rem 2rem;
   border: none;
   margin: 1rem 0 0 0;
-  background-color: cornflowerblue;
+  background-color: rgba(255, 255, 255, 0.8);
   color:b;
   font-weight: 700;
   border-radius: .4rem;
