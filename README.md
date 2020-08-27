@@ -1,6 +1,6 @@
 
 # Search Github User
-- You can visit from this link --> https://onuraltuntasdev.netlify.app/
+- You can visit from this link --> https://githubsearching.netlify.app/
 
 > The purpose of this site is learning react.js concept and github api
 
