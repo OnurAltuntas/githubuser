@@ -1,68 +1,72 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Search Github User
+- You can visit from this link --> https://onuraltuntasdev.netlify.app/
 
-In the project directory, you can run:
+> The purpose of this site is learning react.js concept and github api
 
-### `npm start`
+> You can search every user in Github
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> react.js, custom css, github api
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![githubuser](https://user-images.githubusercontent.com/53194850/91445313-9f0a5800-e87e-11ea-8c0a-76766978125a.PNG)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+### Clone
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Clone this repo to your local machine using <a href="https://github.com/OnurAltuntas/githubuser.git" target="_blank">`https://github.com/OnurAltuntas/githubuser.git`</a>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> update and install this package first
 
-### `npm run eject`
+```shell
+$ npm install / yarn install
+$ npm start / yarn start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+-now just seach user name
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+> To get started...
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Step 1
 
-## Learn More
+- **Option 1**
+    - 🍴 Fork this repo!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `https://github.com/OnurAltuntas/githubuser.git`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Step 2
 
-### Code Splitting
+- **HACK AWAY!** 🔨🔨🔨
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### Step 3
 
-### Analyzing the Bundle Size
+- 🔃 Create a new pull request using <a href="https://github.com/OnurAltuntas/githubuser/pulls" target="_blank">`https://github.com/OnurAltuntas/githubuser/pulls`</a>.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+---
 
-### Making a Progressive Web App
+## Team
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+> Or Contributors/People
 
-### Advanced Configuration
+ <a href="https://onuraltuntasdev.netlify.app/" target="_blank">**OnurAltuntasDev**</a> 
+ | [![OnurAltuntas](https://avatars0.githubusercontent.com/u/53194850?s=460&u=88ff0b9c8fe41c908d3c9b7ff43eb00dba669e66&v=4)](https://onuraltuntasdev.netlify.app)  |
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## Support
 
-### Deployment
+Reach out to me at one of the following places!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- Website at <a href="https://onuraltuntasdev.netlify.app/" target="_blank">`onuraltuntasdev.com`</a>
+- Twitter at <a href="http://twitter.com/onuraltuntasdev" target="_blank">`@onuraltuntasdev`</a>
+- Youtube at <a href="https://www.youtube.com/channel/UCalJQ45NyMzMvPqK5n0xYEA" target="_blank">`@onuraltuntasdev`</a>
+---
 
-### `npm run build` fails to minify
+
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
